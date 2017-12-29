@@ -1,0 +1,92 @@
+.java {
+	display:inline;
+	marhin:0px;
+}
+.java-keyword {
+	color: #dd2867;
+	font-weight: bold;
+}
+.java-annotation {
+	font-weight: bold;
+	font-style: italic;
+	color: #ff9393;
+}
+.java-enum {
+	font-style: italic;
+	color: #c981ba;
+}
+.java-class {
+	color: #1290c3;
+}
+.java-field {
+	color: #8ddaf8;
+}
+.java-abstractclass {
+	color: #3eabe6;
+}
+.java-declaredmet {
+	color: #1eb540;
+	font-weight: bold;
+}
+.java-param {
+	color: #79abff;
+}
+.java-typearg{
+	color: #d7837f;
+}
+.java-interface{
+	color: #80f2f6;
+}
+.java-typevar {
+	color: #bfa4a4;
+	font-weight: bold;
+}
+.java-static {
+	font-style: italic;
+}
+.java-sf {
+	font-style: italic;
+	font-weight: bold;
+}
+.java-string {
+	color: #17c6a3;
+}
+.java-annref {
+	color: #eb4b64;
+}
+.java-abstractmet {
+	color: #80f6a7;
+}
+.java-methodinh {
+	color: #cdf668;
+}
+.java-localvardec {
+	color: #ed7f48;
+	font-weight: bold;
+}
+.java-localvar {
+	color: #ffbf26;
+}
+.java-method {
+	color: #a7ec21;
+}
+.java-number {
+	color: #6897bb;
+}
+.java-deprecated {
+	color: #ab1f36;
+	text-decoration: line-through;
+}
+.java-markup {
+	color: #1e789b;
+}
+.java-jdoc {
+	color: #626262;
+}
+.java-jdoctag {
+	color: #9a8c7c;
+	font-weight: bold;
+}
+.java-jdoclink {
+	color: #a99c8c;
+}
